@@ -23,3 +23,11 @@ Identified that while total Q3 revenue grew, per-agent productivity declined dur
 - Python (pandas, numpy)
 - Tableau
 - Excel
+
+Development Workflow
+This project was built using an AI-assisted development workflow. 
+- I designed the data architecture, business logic, and cleaning strategy.
+- I used AI (LLMs) to accelerate syntax generation and debug edge cases.
+- I manually verified every output, caught data anomalies (like the 2-digit year issue), and extracted the final business insights.
+
+This reflects my actual working style: leveraging modern tools to deliver high-quality results faster, while maintaining strict quality control and business logic oversight.
